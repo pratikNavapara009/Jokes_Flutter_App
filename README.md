@@ -15,6 +15,7 @@
 
 ## App ScreenShots => 📱:-
 
-https://github.com/pratikNavapara009/Jokes_Flutter_App/assets/121868551/30784056-e36b-4c3c-b1fe-a66b3ce852c8
+https://github.com/pratikNavapara009/Jokes_Flutter_App/assets/121868551/6e6c0e63-1d61-498b-89a3-42ca898385b6
+
 
 
