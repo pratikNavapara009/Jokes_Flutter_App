@@ -1,16 +1,18 @@
-# jokes_app
+# Jokes_flutter_app
 
-A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+   - This is a simple app for JOkes and make api and MVC pattern.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Main features are as follows:
+   - You can read Random jokes.
+    - By Pressing Laugh button.
+    - Jokes with date and timeant.
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App ScreenShots => 📱:-
+
+   
