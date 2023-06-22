@@ -14,5 +14,6 @@
  
 
 ## App ScreenShots => 📱:-
+ <img src="assets/App_Gif/Screen_Recording_20230622_141645.mp4" width="250px">
 
    
